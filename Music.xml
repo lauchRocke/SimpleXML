@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music>
+    <Year_1986 id="year1986">
+        <Artist>
+            Bon Jovi
+            <Album>
+                Slippery When Wet
+            </Album>
+        </Artist>
+        <Artist>
+            Dirty Work
+            <Album>
+                The Rolling Stones
+            </Album>
+        </Artist>
+    </Year_1986>
+
+    <Year_1979 id="year1979">
+        <Artist>
+            AC/DC
+            <Album>
+                Highway to Hell
+            </Album>
+        </Artist>
+        <Artist>
+            Pink Floyd
+            <Album>The Wall</Album>
+        </Artist>
+    </Year_1979>
+    
+</Music>
